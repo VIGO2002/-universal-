@@ -19,4 +19,4 @@ python train.py \
   --data_aug \
   --continue_train \
   --epoch_count 2 \
-  --lr 0.00001
+  --lr 0.0002
